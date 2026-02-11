@@ -103,10 +103,13 @@ npm start
 ```bash
 http://localhost:3000
 ```
-### 📸 Screenshots
-
-### 🌐 Deployment
 
 
-### 👨‍💻 Author
+## 📸 Screenshots
+---
+
+## 🌐 Deployment
+---
+
+## 👨‍💻 Author
 Atul Kumar Suthar
